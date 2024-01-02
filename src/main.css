@@ -1,0 +1,16 @@
+/* style each input like a gamepidgen word hunt letter box: */
+input {
+  width: 2em;
+  height: 2em;
+  font-size: 2em;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 0.5em;
+  margin: 0.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+button {
+  font-size: 500%;
+}
